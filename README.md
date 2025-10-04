@@ -25,7 +25,14 @@ This project showcases the design, implementation, and documentation of a scalab
 - Faker.js for mock data
 - dbdiagram.io for ERD visualization
 
-## 📸 ER Diagram
+## Visual Data Explorer (Prisma Studio)
+
+This project includes Prisma Studio for browsing the database visually:
+
+![Prisma Studio Screenshot](docs/prisma-studio.png)
+
+
+## ER Diagram
 ![ERD](docs/erd.png)
 
 ## Project Structure
