@@ -1,10 +1,10 @@
-# 📘 Database Schema Documentation
+# Database Schema Documentation
 
 This document provides a detailed overview of each table in the **ShopTrack** e-commerce database schema.
 
 ---
 
-## 🧑users
+## users
 
 ### Purpose
 Stores registered customer information.
@@ -66,7 +66,7 @@ Organizes products into logical groupings.
 
 ## orders
 
-### urpose
+### Purpose
 Represents customer purchases and transactions.
 
 ### Key Fields
